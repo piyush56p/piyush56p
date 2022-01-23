@@ -1,4 +1,4 @@
-<a href="#"><center><img width="100%" height="auto" src="https://uploads-ssl.webflow.com/5efdf8d787a4c20394bc7868/60f581c93af19b16a4ef99f3_gooble-analytics.png" height="150px"/></a></center>
+<a href="#"><center><img width="50%" height="auto" src="https://uploads-ssl.webflow.com/5efdf8d787a4c20394bc7868/60f581c93af19b16a4ef99f3_gooble-analytics.png" height="150px"/></a></center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Piyush</h1>
 <h3 align="center">A Sophomore at Thapar Institue of Engneering and Technology</h3>
@@ -20,9 +20,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"/> </a>
-    <a href="https://in.mathworks.com/" target="_blank"> <img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img width = 4% src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img width = 4% src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"/> </a>
+    <a href="https://in.mathworks.com/" target="_blank"> <img width = 4% src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
     <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
@@ -68,7 +68,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://leetcode.com/piyush56p/"><img width = 5% src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
+<a href = "https://leetcode.com/piyush56p/"><img width = 4% src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
 <a href = "https://www.linkedin.com/in/piyush-sharma-ba1b9b21b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/heisenbergp7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/heisenberg.__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
