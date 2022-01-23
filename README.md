@@ -1,4 +1,4 @@
-<a href="#"><center><img width="50%" height="auto" src="https://uploads-ssl.webflow.com/5efdf8d787a4c20394bc7868/60f581c93af19b16a4ef99f3_gooble-analytics.png" height="150px"/></a></center>
+<a href="#"><center><img width="100%" height="auto" src="https://uploads-ssl.webflow.com/5efdf8d787a4c20394bc7868/60f581c93af19b16a4ef99f3_gooble-analytics.png" height="150px"/></a></center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Piyush</h1>
 <h3 align="center">A Sophomore at Thapar Institue of Engneering and Technology</h3>
@@ -44,7 +44,7 @@
 
 <p align="center">
     <a href="https://github.com/piyush56p/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush Sharma's streak streak" src="
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Piyush Sharma's streak" src="
         https://github-readme-streak-stats.herokuapp.com/?user=piyush56p&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
