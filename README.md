@@ -1,7 +1,7 @@
 <p align = "center"><a href="#"><img width="75%" height="auto" src="https://uploads-ssl.webflow.com/5efdf8d787a4c20394bc7868/60f581c93af19b16a4ef99f3_gooble-analytics.png" height="150px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Piyush</h1>
-<h3 align="center">A Sophomore at Thapar Institue of Engineering and Technology</h3>
+<h3 align="center">A Sophomore at Thapar Institute of Engineering and Technology</h3>
 
 ## 🙋‍♂️ About Me
 
