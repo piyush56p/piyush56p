@@ -13,7 +13,7 @@
 
   
 
-- 📫 How to reach me **psharma10_be20@thapar.edu**
+- 📫 How to reach me **piyush56.ps17@gmail.com**
 
 - ⚡ Fun fact **I play Valorant and main Sage.**
 
